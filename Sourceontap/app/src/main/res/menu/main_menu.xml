@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_cat"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_Category"
+        >
+
+    </item>
+    <item
+        android:id="@+id/nav_place"
+        android:icon="@drawable/ic_place"
+        android:title="@string/title_Place"
+        >
+
+    </item>
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/title_Contact"
+        >
+
+    </item>
+    <item
+        android:id="@+id/nav_promotion"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/title_Promotion"
+        >
+
+    </item>
+
+</menu>
